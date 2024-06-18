@@ -1,5 +1,6 @@
 # SideBook
 Using JS to add functionality to payroll tracker
+![Screenshot 2024-06-18 185808](https://github.com/mikejsmith9843/SideBook/assets/151273894/365d93b4-bea0-4e9f-ad79-139bfe58a992)
 
 
 ## Site Link
